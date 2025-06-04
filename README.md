@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/brane10/four-card-feature-section-solution
+- Solution URL: https://github.com/BranimirSkegro/four-card-feature-section-solution
 - Live Site URL: https://branimirskegro.github.io/four-card-feature-section-solution/
 
 
